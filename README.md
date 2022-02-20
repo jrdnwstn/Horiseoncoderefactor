@@ -1,8 +1,21 @@
 #Horiseon
 
-![Website.Screenshot](./asstes/images/digital-marketing-meeting.jpg)
+![Website Screenshot](./Develop/assets/images/digital-marketing-meeting.jpg)
 
 [Deployed Wedstie](https://jrdnwstn.github.io/Horiseoncoderefactor/)
+
+
+Semantic HTML Elements changed from div
+-Header
+-Nav
+-Footer
+-Main
+
+I fixed the search optimizaztoin link by changing the semantic element from class to id
+
+I added accessible alt attributes in order to make the webpage more accessible by giving short descriptions of the photos
+
+I changed the title to be more descriptive and concise by deleting "website" and entering a description
 
 Short Descripton:
 -What we changed
