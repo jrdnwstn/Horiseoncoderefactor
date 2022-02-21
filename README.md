@@ -4,7 +4,7 @@
 
 [DeployedWebsite] (https://github.com/jrdnwstn/Horiseoncoderefactor)
 
-[Github Webstie](https://jrdnwstn.github.io/Horiseoncoderefactor/)
+[Github Website](https://jrdnwstn.github.io/Horiseoncoderefactor/)
 
 
 
@@ -24,6 +24,8 @@ I added accessible alt attributes in order to make the webpage more accessible b
 I changed the title to be more descriptive and concise by deleting "website" and entering a description
 
 Cleaned up CSS by changing div to nav to follow CSS rules
+
+Made heading atttribute fall into sequential order
 
 
 
