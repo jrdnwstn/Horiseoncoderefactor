@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*-------Header------*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +25,9 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+/*----Navigation bar-----*/
+
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +35,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -69,6 +72,7 @@ p {
     margin-left: 25px;
 }
 
+/*-----main content----*/
 .content {
     width: 75%;
     display: inline-block;
@@ -187,6 +191,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*---footer----*/
 
 .footer {
     padding: 30px;
